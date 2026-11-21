@@ -1,0 +1,181 @@
+{
+ "note": "Every pin posted or scheduled on pinterest.com/everydaymealsco. Add new entries at the end. Times are Asia/Colombo.",
+ "schedule_slots_sri_lanka": [
+  "06:30 AM",
+  "07:30 AM",
+  "08:30 AM"
+ ],
+ "pins": [
+  {
+   "file": "p05_7_cheap_dinners",
+   "style": "roundup",
+   "recipes": [
+    "b1_02",
+    "b1_04",
+    "b3_01",
+    "b3_12",
+    "b3_18",
+    "b1_16"
+   ],
+   "title": "7 Quick & Cheap Family Dinners (Free Weekly Meal Plan)",
+   "link": "https://everydaymealsco.netlify.app/#free",
+   "board": "Easy Dinner Recipes for Family",
+   "when": "2026-11-21 published"
+  },
+  {
+   "file": "p01_korean_beef_bowls",
+   "style": "heroA",
+   "recipes": [
+    "b1_25"
+   ],
+   "title": "17-Minute Korean Ground Beef Bowls (Easy Weeknight Dinner)",
+   "link": "https://everydaymealsco.netlify.app/recipes/korean-ground-beef-bowls.html",
+   "board": "Easy Ground Beef Recipes",
+   "when": "2026-11-22 06:30"
+  },
+  {
+   "file": "p07_10_high_protein",
+   "style": "infolist",
+   "recipes": [
+    "b4_01",
+    "b4_06",
+    "b4_10",
+    "b4_17",
+    "b4_11",
+    "b4_03",
+    "b4_12",
+    "b4_18",
+    "b4_04",
+    "b4_15"
+   ],
+   "title": "10 High-Protein Dinners for Families (30g+ Protein)",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "High Protein Meals",
+   "when": "2026-11-22 08:30"
+  },
+  {
+   "file": "p13_cheesy_chicken_rice_cost",
+   "style": "cost",
+   "recipes": [
+    "b3_01"
+   ],
+   "title": "One-Pot Cheesy Chicken & Rice: Feeds 4 for About $9",
+   "link": "https://everydaymealsco.netlify.app/recipes/one-pot-cheesy-chicken-and-rice.html",
+   "board": "Easy Chicken Dinner Recipes",
+   "when": "2026-11-23 06:30"
+  },
+  {
+   "file": "p09_freezer_magazine",
+   "style": "magazine",
+   "recipes": [
+    "b2_cover"
+   ],
+   "title": "Make-Ahead Freezer Meals: 25 Easy Recipes for Busy Families",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Meal Prep Ideas for the Week",
+   "when": "2026-11-23 08:30"
+  },
+  {
+   "file": "p02_cottage_cheese_lasagna",
+   "style": "heroA2",
+   "recipes": [
+    "b4_25"
+   ],
+   "title": "Cottage Cheese Lasagna Bake: High-Protein Dinner (42g Protein)",
+   "link": "https://everydaymealsco.netlify.app/recipes/cottage-cheese-lasagna-bake.html",
+   "board": "High Protein Meals",
+   "when": "2026-11-24 06:30"
+  },
+  {
+   "file": "p11_beef_broccoli_card",
+   "style": "card",
+   "recipes": [
+    "b1_02"
+   ],
+   "title": "15-Minute Beef & Broccoli (Better Than Takeout)",
+   "link": "https://everydaymealsco.netlify.app/recipes/15-minute-beef-and-broccoli.html",
+   "board": "30 Minute Dinner Recipes",
+   "when": "2026-11-24 08:30"
+  },
+  {
+   "file": "p08_cheap_dinners",
+   "style": "infolist",
+   "recipes": [
+    "b3_01",
+    "b3_12",
+    "b3_09",
+    "b3_14",
+    "b3_16",
+    "b3_21",
+    "b3_18",
+    "b3_20",
+    "b3_06",
+    "b3_22"
+   ],
+   "title": "Cheap Dinners Under $10: 10 Budget Family Meals",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Budget Meals for Families",
+   "when": "2026-11-25 06:30"
+  },
+  {
+   "file": "p03_sausage_lentil_soup",
+   "style": "heroA",
+   "recipes": [
+    "b2_25"
+   ],
+   "title": "Italian Sausage & Lentil Soup: Cheap, Freezer-Friendly Dinner",
+   "link": "https://everydaymealsco.netlify.app/recipes/italian-sausage-and-lentil-soup.html",
+   "board": "Make Ahead Freezer Meals",
+   "when": "2026-11-25 08:30"
+  },
+  {
+   "file": "p06_25_freezer_meals",
+   "style": "roundup",
+   "recipes": [
+    "b2_09",
+    "b2_10",
+    "b2_01",
+    "b2_18",
+    "b2_15",
+    "b2_11"
+   ],
+   "title": "25 Freezer Meals for Busy Weeks: Prep Once, Eat All Week",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Make Ahead Freezer Meals",
+   "when": "2026-11-26 06:30"
+  },
+  {
+   "file": "p12_taco_skillet_card",
+   "style": "card",
+   "recipes": [
+    "b1_04"
+   ],
+   "title": "One-Pan Ground Beef Taco Skillet (25-Minute Dinner)",
+   "link": "https://everydaymealsco.netlify.app/recipes/ground-beef-taco-skillet.html",
+   "board": "Easy Ground Beef Recipes",
+   "when": "2026-11-26 08:30"
+  },
+  {
+   "file": "p10_weeknight_magazine",
+   "style": "magazine",
+   "recipes": [
+    "b1_cover"
+   ],
+   "title": "30-Minute Family Dinners: 25 Easy Weeknight Recipes",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "30 Minute Dinner Recipes",
+   "when": "2026-11-27 06:30"
+  },
+  {
+   "file": "p04_breakfast_hash",
+   "style": "heroA2",
+   "recipes": [
+    "b3_25"
+   ],
+   "title": "Potato, Pepper & Egg Skillet Hash: Breakfast for Dinner on a Budget",
+   "link": "https://everydaymealsco.netlify.app/recipes/potato-pepper-and-egg-breakfast-hash.html",
+   "board": "Budget Meals for Families",
+   "when": "2026-11-27 08:30"
+  }
+ ]
+}
