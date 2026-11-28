@@ -626,6 +626,231 @@
    "link": "https://everydaymealsco.netlify.app/#books",
    "board": "High Protein Meals",
    "when": "2026-12-03 21:30"
+  },
+  {
+   "file": "p44_hp_weeknight_roundup",
+   "style": "roundup",
+   "recipes": [
+    "b4_05",
+    "b4_08",
+    "b4_12",
+    "b4_14",
+    "b4_16",
+    "b4_19"
+   ],
+   "title": "6 High-Protein Dinners for Busy Weeknights: Easy Healthy Meals with 35g+ Protein",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "High Protein Meals",
+   "when": "2026-12-04 02:30"
+  },
+  {
+   "file": "p45_cheeseburger_pasta_cost",
+   "style": "cost",
+   "recipes": [
+    "b3_09"
+   ],
+   "title": "Homemade Cheeseburger Pasta for About $9: Cheap One-Pot Ground Beef Dinner for 6",
+   "link": "https://everydaymealsco.netlify.app/recipes/homemade-cheeseburger-pasta.html",
+   "board": "Budget Meals for Families",
+   "when": "2026-12-04 05:30"
+  },
+  {
+   "file": "p46_cozy_december_week",
+   "style": "weekplan",
+   "recipes": [
+    "b2_02",
+    "b3_03",
+    "b3_14",
+    "b2_16",
+    "b2_09",
+    "b2_13",
+    "b3_04"
+   ],
+   "title": "A Week of Cozy December Dinners: Free 7-Day Comfort Food Meal Plan for Families",
+   "link": "https://everydaymealsco.netlify.app/#free",
+   "board": "Easy Dinner Recipes for Family",
+   "when": "2026-12-04 06:30"
+  },
+  {
+   "file": "p47_korean_beef_magazine",
+   "style": "magazine",
+   "recipes": [
+    "b1_25"
+   ],
+   "title": "Better Than Takeout Korean Ground Beef Bowls: 17-Minute One-Skillet Dinner",
+   "link": "https://everydaymealsco.netlify.app/recipes/korean-ground-beef-bowls.html",
+   "board": "30 Minute Dinner Recipes",
+   "when": "2026-12-04 08:30"
+  },
+  {
+   "file": "p48_ground_beef_info",
+   "style": "infolist",
+   "recipes": [
+    "b1_04",
+    "b1_10",
+    "b1_20",
+    "b3_09",
+    "b4_11",
+    "b3_11",
+    "b3_12",
+    "b3_13",
+    "b3_16",
+    "b3_17"
+   ],
+   "title": "10 Easy Ground Beef Dinners: Cheap, Quick and Kid-Approved Family Meals",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Easy Ground Beef Recipes",
+   "when": "2026-12-04 21:30"
+  },
+  {
+   "file": "p49_cozy_pasta_roundup",
+   "style": "roundup",
+   "recipes": [
+    "b1_08",
+    "b1_11",
+    "b1_19",
+    "b1_24",
+    "b3_17",
+    "b4_06"
+   ],
+   "title": "6 Cozy Pasta Dinners Ready in 30 Minutes: Easy Weeknight Pasta Recipes",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "30 Minute Dinner Recipes",
+   "when": "2026-12-05 02:30"
+  },
+  {
+   "file": "p50_garlic_butter_chicken_card",
+   "style": "card",
+   "recipes": [
+    "b1_01"
+   ],
+   "title": "One-Pan Garlic Butter Chicken and Potatoes: Easy 30-Minute Family Dinner Recipe",
+   "link": "https://everydaymealsco.netlify.app/recipes/one-pan-garlic-butter-chicken-and-potatoes.html",
+   "board": "Easy Chicken Dinner Recipes",
+   "when": "2026-12-05 05:30"
+  },
+  {
+   "file": "p51_holiday_week_plan",
+   "style": "weekplan",
+   "recipes": [
+    "b1_03",
+    "b2_11",
+    "b3_22",
+    "b1_18",
+    "b2_14",
+    "b3_16",
+    "b4_14"
+   ],
+   "title": "A Week of Easy Holiday Dinners: Free December Meal Plan with Crowd-Pleasing Recipes",
+   "link": "https://everydaymealsco.netlify.app/#free",
+   "board": "Christmas Dinner Recipes",
+   "when": "2026-12-05 06:30"
+  },
+  {
+   "file": "p52_hash_magazine",
+   "style": "magazine",
+   "recipes": [
+    "b3_25"
+   ],
+   "title": "Breakfast for Dinner: Potato, Pepper and Egg Hash for About $7 in One Pan",
+   "link": "https://everydaymealsco.netlify.app/recipes/potato-pepper-and-egg-breakfast-hash.html",
+   "board": "Budget Meals for Families",
+   "when": "2026-12-05 08:30"
+  },
+  {
+   "file": "p53_crockpot_freezer_info",
+   "style": "infolist",
+   "recipes": [
+    "b2_01",
+    "b2_02",
+    "b2_03",
+    "b2_04",
+    "b2_05",
+    "b2_06",
+    "b2_07",
+    "b2_08",
+    "b2_19",
+    "b2_21"
+   ],
+   "title": "10 Cozy Freezer-Friendly Dinners: Easy Crockpot and Make-Ahead Meals for December",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Make Ahead Freezer Meals",
+   "when": "2026-12-05 21:30"
+  },
+  {
+   "file": "p54_busy_holiday_roundup",
+   "style": "roundup",
+   "recipes": [
+    "b1_06",
+    "b1_12",
+    "b1_14",
+    "b1_15",
+    "b1_20",
+    "b1_23"
+   ],
+   "title": "6 Quick Dinners for Busy Holiday Weeknights: Easy 30-Minute Family Meals",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Easy Dinner Recipes for Family",
+   "when": "2026-12-06 02:30"
+  },
+  {
+   "file": "p55_chicken_dumplings_cost",
+   "style": "cost",
+   "recipes": [
+    "b3_06"
+   ],
+   "title": "Chicken and Biscuit Dumplings for About $10: Cozy One-Pot Budget Dinner for 6",
+   "link": "https://everydaymealsco.netlify.app/recipes/chicken-and-biscuit-dumplings.html",
+   "board": "Easy Chicken Dinner Recipes",
+   "when": "2026-12-06 05:30"
+  },
+  {
+   "file": "p56_one_pan_week",
+   "style": "weekplan",
+   "recipes": [
+    "b1_07",
+    "b1_17",
+    "b3_15",
+    "b3_08",
+    "b4_18",
+    "b3_02",
+    "b1_10"
+   ],
+   "title": "A Week of One-Pan Dinners: Free Easy 7-Day Meal Plan with Hardly Any Dishes",
+   "link": "https://everydaymealsco.netlify.app/#free",
+   "board": "Meal Prep Ideas for the Week",
+   "when": "2026-12-06 06:30"
+  },
+  {
+   "file": "p57_lasagna_heroA2",
+   "style": "heroA2",
+   "recipes": [
+    "b4_25"
+   ],
+   "title": "Cottage Cheese Lasagna: Protein-Packed Comfort Food with 42g Protein per Serving",
+   "link": "https://everydaymealsco.netlify.app/recipes/cottage-cheese-lasagna-bake.html",
+   "board": "Healthy Dinner Recipes",
+   "when": "2026-12-06 08:30"
+  },
+  {
+   "file": "p58_cheap_8_info",
+   "style": "infolist",
+   "recipes": [
+    "b3_20",
+    "b3_18",
+    "b3_19",
+    "b3_21",
+    "b3_25",
+    "b3_10",
+    "b3_17",
+    "b3_23",
+    "b3_24",
+    "b3_05"
+   ],
+   "title": "10 Cheap Family Dinners for $8 or Less: Easy Budget Meals That Fill Everyone Up",
+   "link": "https://everydaymealsco.netlify.app/#books",
+   "board": "Budget Meals for Families",
+   "when": "2026-12-06 21:30"
   }
  ]
 }
